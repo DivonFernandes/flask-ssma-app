@@ -1,4 +1,6 @@
 flask
 gunicorn
-
-
+flask_sqlalchemy
+db_sqlite3
+matplotlib
+SQLAlchemy

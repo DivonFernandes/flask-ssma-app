@@ -1,6 +1,5 @@
 flask
-gunicorn
 flask_sqlalchemy
-db_sqlite3
+gunicorn
 matplotlib
-SQLAlchemy
+sqlalchemy

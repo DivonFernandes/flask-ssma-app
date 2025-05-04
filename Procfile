@@ -1,2 +1,2 @@
-gunicorn main:app
+gunicorn app:app
 

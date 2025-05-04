@@ -1,4 +1,4 @@
 gunicorn
-pip freeze > requirements.txt
+requirements.txt
 
 
